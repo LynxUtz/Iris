@@ -1,2 +1,2 @@
 # ball-game
-Learning p5.is
+Learning p5.js
